@@ -6,7 +6,7 @@
 
 - **Automated Data Capture**: Automatically captures and stores information sent through Telegram messages.
 
-- **Data Processing**: Processes stored data for analysis, reporting, and decision-making support.
+- **Data Processing and Logging**: Processes stored data for analysis, reporting, and decision-making support.
 
 - **Customizable Workflows**: Easily configurable to match your specific data handling and processing needs.
 
