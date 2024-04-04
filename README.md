@@ -68,11 +68,11 @@ Once the bot is running, you can interact with it through Telegram by sending me
 
 Here is a short demo of what the bot can do:
 
-
+![Demo video](https://github.com/vladcelona/shops-logs-bot/blob/368e46a916d307cd9c1174f4335a2612e1bd2071/github-assets/shops-logs-bot_example.gif)
 
 **The bot can be used only by group of people** with usernames in a .env.USERNAMES_LIST variable. Otherwise Telegram users get **this message**:
 
-
+![Restrict access image](https://github.com/vladcelona/shops-logs-bot/blob/368e46a916d307cd9c1174f4335a2612e1bd2071/github-assets/restirct-access.png)
 
 ## License
 
